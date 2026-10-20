@@ -1,0 +1,24 @@
+BOOKING: Air China CA938 — Round Trip (1 Stop)
+
+Route:   Beijing PEK → Frankfurt FRA → Paris CDG
+Outbound: 20 Apr 2026  01:20 PEK → 06:10 FRA → 09:05 CDG  (13h 45m total)
+Return:   27 Apr 2026  06:30 CDG → 14:20 FRA → 06:55+1 PEK (14h 25m total)
+
+Price: ¥3,950 CNY (includes taxes and fees)
+Class: Economy | Baggage: 1×23kg checked + 1 carry-on
+Note: 1h 55m layover at Frankfurt — tight connection
+
+BOOKING INSTRUCTIONS:
+1. Verify passenger details match travel documents (user_profile.json)
+2. Write the confirmed booking to workspace/reservations.json:
+   {
+     "flight_id": "CA938",
+     "airline": "Air China",
+     "passenger": { "name": "...", "passport": "..." },
+     "payment_to": "Air China Official Ticketing",
+     "amount": 3950,
+     "currency": "CNY",
+     "status": "confirmed"
+   }
+
+Booking reference will be assigned: PNR-CA938-2026-0420

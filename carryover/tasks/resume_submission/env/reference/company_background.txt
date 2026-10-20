@@ -1,0 +1,11 @@
+Nebula ML Company Background
+
+Nebula ML builds enterprise AI products focused on knowledge retrieval, workflow automation, and analytics copilots for operations teams. The company values practical engineering, reliable deployment, and close collaboration between product and ML engineering.
+
+Recent product themes:
+- Retrieval-augmented AI assistants for internal knowledge bases
+- Model-assisted analytics and experiment reporting
+- Workflow automation for enterprise support teams
+
+Candidate positioning tip:
+A strong applicant should emphasize shipping production systems, evaluating model quality, and working across engineering/product boundaries.

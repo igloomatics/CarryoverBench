@@ -1,0 +1,18 @@
+From: bob.lin@company.com
+To: user@company.com
+Subject: IT Maintenance Window — This Saturday 02:00–04:00 AM
+Date: Mon, 06 Apr 2026 10:32:00 +0800
+
+Hi team,
+
+Scheduled infrastructure maintenance this Saturday (Apr 11) from
+02:00 to 04:00 AM CST. All internal systems (email, VPN, shared drives)
+will be unavailable during this window.
+
+Please save all open work before midnight Friday.
+
+No action required from your side — systems will come back online
+automatically by 04:30 AM at the latest.
+
+Bob Lin
+IT Operations

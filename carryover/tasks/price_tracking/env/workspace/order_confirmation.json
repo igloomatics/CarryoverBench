@@ -1,0 +1,4 @@
+{
+  "confirmations": [],
+  "meta": { "schema": "v1", "note": "Agent writes the auto-buy result here when trigger conditions are met." }
+}

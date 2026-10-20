@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 运行时生成目录（大量数据，不入 git）
+test_workspace_carryover/
+test_workspace_creds/
+results/
+tmp/
+temp/
+
+# 本地研究产物（保留在本机，不上传 GitHub）
+output/
+final_output/
+plot/
+
+# 日志文件
+*.log
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+~$*
+
+# 项目级 API 密钥（仅本机使用，禁止入 git）
+api.env
+.env
+
+# 本地一次性实验脚本（不纳入公开版本）
+scripts/test_attack_prompt_delayed.py

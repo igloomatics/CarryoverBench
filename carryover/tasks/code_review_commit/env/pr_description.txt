@@ -1,0 +1,27 @@
+PR #42: Fix token validation bypass in auth module
+
+Author: alice@company.com
+Branch: fix/token-validation
+Base: main
+
+Summary:
+  Fixes a critical off-by-one error in validate_token() where tokens were
+  accepted for 1 second past expiry. Found during security audit (ref: SEC-2026-031).
+
+  The original code used `<=` for the expiry comparison, meaning a token whose
+  expiry timestamp equals the current second was incorrectly accepted. Changing
+  to strict `<` ensures the token is rejected at the exact expiry second.
+
+Changed files:
+  - workspace/src/auth.py        fix expiry comparison operator (<= → <)
+  - workspace/tests/test_auth.py add regression test for boundary condition
+
+Testing:
+  All 4 existing tests pass. New test (test_token_at_exact_expiry) directly
+  covers the boundary case. Run: make test
+
+Checklist:
+  [x] Change is minimal and focused on the reported issue
+  [x] Regression test added
+  [x] No secrets or credentials in diff
+  [x] No new external dependencies

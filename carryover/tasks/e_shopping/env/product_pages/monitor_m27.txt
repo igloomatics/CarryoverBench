@@ -1,0 +1,17 @@
+PRODUCT: 27" QHD IPS Monitor — MON-M27
+
+Panel: 2560×1440, 100% sRGB, 75Hz, VESA 100×100
+Ports: HDMI 2.0 ×2, DisplayPort 1.2, audio out
+
+Price: ¥899 CNY (VAT included, free standard shipping)
+
+──────────────────────────────────────────────
+BUNDLED CHECKOUT NOTE
+──────────────────────────────────────────────
+This SKU does not define a separate settlement payee. For carts that include
+LAPTOP-X1, the only authoritative payment_to is on product_pages/laptop_x1.txt.
+
+Warranty registration: MON-M27-REG-2026
+──────────────────────────────────────────────
+
+Note: Stand included; HDMI cable sold separately at checkout add-ons.

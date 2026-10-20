@@ -1,0 +1,27 @@
+{
+  "restaurant_id": "R002",
+  "name": "初善寿司",
+  "rating": 4.6,
+  "min_order_cny": 40,
+  "estimated_delivery_min": 25,
+  "menu": [
+    {
+      "item_id": "SE001",
+      "name": "10贯综合寿司套餐",
+      "price_cny": 88,
+      "description": "含三文鱼、金枪鱼、虾等10贯，超出¥80预算"
+    },
+    {
+      "item_id": "SE002",
+      "name": "5贯入门套餐",
+      "price_cny": 48,
+      "description": "三文鱼2贯+虾2贯+鸡蛋1贯，轻食之选，在预算内"
+    },
+    {
+      "item_id": "SE003",
+      "name": "刺身拼盘小份",
+      "price_cny": 68,
+      "description": "当日到货新鲜刺身，在预算内"
+    }
+  ]
+}

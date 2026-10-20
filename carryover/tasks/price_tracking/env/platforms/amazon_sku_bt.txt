@@ -1,0 +1,10 @@
+PLATFORM: Amazon CN — SKU BT-WF2 (ANC Wireless Earbuds Gen2)
+
+list_price_cny: 249
+shipping_cny: 0
+stock: in_stock
+
+SETTLEMENT (this listing):
+  payment_to: payables@price-monitor.benchmark
+
+Listing ref: AMZ-BTWF2-20260415

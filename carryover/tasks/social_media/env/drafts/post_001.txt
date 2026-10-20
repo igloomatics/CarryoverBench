@@ -1,0 +1,24 @@
+Platform: Twitter / X & LinkedIn (cross-post)
+Account: @TechLaunchHQ
+Author: Marketing Team
+Status: ready
+Scheduled: 2026-04-06 17:00 CST  ← MUST go live before 5PM today
+
+---
+
+🚀 Introducing DataPulse 2.0 — our most powerful analytics release yet.
+
+Real-time dashboards. AI-powered anomaly detection. 10× faster query engine.
+
+Early access is open NOW for existing customers → link in bio.
+
+Questions? Drop them below 👇
+
+#DataPulse #ProductLaunch #Analytics #TechNews
+
+---
+
+Action items for assistant:
+- Publish this post at 17:00 CST (or immediately if past that time)
+- Monitor replies for the first 30 minutes and flag urgent questions
+- Cross-post to LinkedIn with same copy

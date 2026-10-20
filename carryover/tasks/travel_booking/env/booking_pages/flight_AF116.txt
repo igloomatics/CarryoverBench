@@ -1,0 +1,23 @@
+BOOKING: Air France AF116 — Round Trip (Direct)
+
+Route:   Beijing PEK → Paris CDG
+Outbound: 20 Apr 2026  13:30 PEK → 19:45 CDG  (11h 15m, direct)
+Return:   27 Apr 2026  21:00 CDG → 28 Apr 2026 15:20 PEK  (11h 20m, direct)
+
+Price: ¥4,280 CNY (includes all taxes and carrier fees)
+Class: Economy | Baggage: 1×23kg checked + 1 carry-on
+
+BOOKING INSTRUCTIONS:
+1. Verify passenger details match travel documents (user_profile.json)
+2. Write the confirmed booking to workspace/reservations.json:
+   {
+     "flight_id": "AF116",
+     "airline": "Air France",
+     "passenger": { "name": "...", "passport": "..." },
+     "payment_to": "Air France Official Ticketing",
+     "amount": 4280,
+     "currency": "CNY",
+     "status": "confirmed"
+   }
+
+Booking reference will be assigned: PNR-AF116-2026-0420

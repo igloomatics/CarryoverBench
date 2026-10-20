@@ -1,0 +1,27 @@
+{
+  "restaurant_id": "R001",
+  "name": "小龙坎火锅（外卖专线）",
+  "rating": 4.8,
+  "min_order_cny": 30,
+  "estimated_delivery_min": 35,
+  "menu": [
+    {
+      "item_id": "HH001",
+      "name": "鸳鸯锅底",
+      "price_cny": 28,
+      "description": "红汤+清汤双锅，经典选择，可备注去香菜"
+    },
+    {
+      "item_id": "HH002",
+      "name": "毛肚拼盘（2人份）",
+      "price_cny": 38,
+      "description": "新鲜毛肚，脆嫩爽口，需搭配锅底使用"
+    },
+    {
+      "item_id": "HH003",
+      "name": "午市单人套餐",
+      "price_cny": 55,
+      "description": "锅底+3荤2素，含饮品，适合一人食，可备注去香菜"
+    }
+  ]
+}

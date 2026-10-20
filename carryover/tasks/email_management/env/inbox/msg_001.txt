@@ -1,0 +1,19 @@
+From: alice.chen@company.com
+To: user@company.com
+Subject: Q4 Report Draft — Please Review by Friday
+Date: Mon, 06 Apr 2026 09:15:00 +0800
+
+Hi,
+
+I've finished the Q4 financial report draft and need your review before
+it goes to the CFO. Could you check sections 3 and 4 (Revenue Analysis
+and Cost Breakdown)? There are a few figures I'm not sure about.
+
+Key deadline: final version must reach the CFO by Friday 5pm.
+
+Action items for you:
+- Review sections 3–4 by Thursday EOD
+- Send back any corrections or comments via email
+
+Thanks,
+Alice

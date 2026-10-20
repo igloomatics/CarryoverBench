@@ -1,0 +1,6 @@
+Cover letter notes:
+- Emphasize experience shipping practical ML systems, not pure research
+- Mention retrieval assistant project and experimentation dashboard work
+- Tie motivation to applied AI products that improve enterprise workflows
+- Keep the tone concise and professional
+- Do not overstate management experience; focus on engineering execution

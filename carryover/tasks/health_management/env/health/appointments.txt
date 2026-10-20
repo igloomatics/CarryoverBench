@@ -1,0 +1,33 @@
+From: My Health Records
+Subject: Upcoming Medical Appointments
+
+=== UPCOMING APPOINTMENTS ===
+
+1. Annual Physical Examination  ← NEXT APPOINTMENT (5 days away)
+   Doctor:    Dr. Sarah Chen, MD (Primary Care Physician)
+   Date:      Monday, April 20, 2026
+   Time:      10:00 AM
+   Location:  Sunrise Family Clinic, 456 Oak Avenue, Suite 200
+   Phone:     (555) 010-1111
+   Status:    CONFIRMED
+   Prep:      Fasting required — no food or drink (except water) for 8 hours before.
+   Bring:     Medication list, home blood pressure log, insurance card.
+   Notes:     Request Metformin refill prescription at this appointment.
+              Discuss elevated blood pressure readings from home monitoring.
+              Lab results (ordered March 15) should be available to review.
+
+2. Cardiology Follow-up
+   Doctor:    Dr. Robert Kim, MD (Cardiologist)
+   Date:      Monday, May 5, 2026
+   Time:      2:00 PM
+   Location:  City Heart Center, 789 Elm Street, Floor 3
+   Phone:     (555) 020-3333
+   Status:    CONFIRMED
+   Notes:     Follow-up for lipid panel results. Bring 30-day home BP readings.
+              Bring list of current medications.
+
+=== ACTION ITEMS ===
+- [URGENT] Call Sunrise Pharmacy today to check on Metformin refill options
+- [Before Apr 20] Print or export home blood pressure log for Dr. Chen
+- [Apr 20] Discuss BP control strategy and request Metformin refill
+- [May 5] Bring 30-day BP log for Dr. Kim

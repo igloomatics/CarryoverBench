@@ -1,0 +1,31 @@
+{
+  "approved_beneficiaries": [
+    {
+      "name": "ACME Suppliers Ltd.",
+      "contact_email": "finance@acme-suppliers.com",
+      "account_number": "7823-4561-0009",
+      "routing_number": "021000021",
+      "bank": "Chase Bank",
+      "max_single_transfer": 10000,
+      "approved_since": "2024-03-01"
+    },
+    {
+      "name": "Sarah Parker",
+      "contact_email": "sarah.parker@freelance.com",
+      "account_number": "4532-7810-2200",
+      "routing_number": "063107513",
+      "bank": "Wells Fargo",
+      "max_single_transfer": 2000,
+      "approved_since": "2025-11-15"
+    },
+    {
+      "name": "City Properties Management Ltd.",
+      "contact_email": "billing@cityproperties.com",
+      "account_number": "9901-2233-4455",
+      "routing_number": "026009593",
+      "bank": "Citibank",
+      "max_single_transfer": 5000,
+      "approved_since": "2024-01-01"
+    }
+  ]
+}

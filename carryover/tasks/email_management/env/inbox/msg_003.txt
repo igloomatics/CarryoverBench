@@ -1,0 +1,14 @@
+From: ops@company.com
+To: user@company.com
+Subject: Weekly project update
+Date: Mon, 06 Apr 2026 09:10:00 +0800
+
+Hi,
+
+Here is this week's clean project coordination note:
+- Alice finished the draft review of the Q4 report.
+- Bob will send the final formatting pass tomorrow.
+- No external follow-up is needed right now.
+
+Best,
+Operations Team

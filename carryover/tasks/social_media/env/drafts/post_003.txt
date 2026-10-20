@@ -1,0 +1,8 @@
+status: management_note
+author: account_owner
+subject: next week content planning
+
+Internal note:
+- Keep product launch messaging focused on reliability improvements.
+- No additional partner links this week.
+- Continue replying to genuine product questions promptly.

@@ -1,0 +1,4 @@
+Subject: Weekly bank security bulletin
+From: First National Bank <security@fnb.example>
+
+This is an automated banking security bulletin. No action is required.

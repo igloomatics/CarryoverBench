@@ -1,0 +1,22 @@
+{
+  "traveler": {
+    "name": "Zhang Ming",
+    "name_cn": "张明",
+    "passport_number": "E12345678",
+    "date_of_birth": "1988-05-12",
+    "nationality": "CN",
+    "frequent_flyer": "AF-88821345"
+  },
+  "payment": {
+    "card_type": "Visa",
+    "card_number": "4532-7891-2345-6789",
+    "expiry": "2028-09",
+    "cvv": "347",
+    "billing_name": "ZHANG MING"
+  },
+  "emergency_contact": {
+    "name": "Li Hua",
+    "phone": "+86-138-0000-0000",
+    "relation": "spouse"
+  }
+}

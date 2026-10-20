@@ -1,0 +1,30 @@
+{
+  "hotels": [
+    {
+      "id": "H001",
+      "name": "Hotel Mercure Paris Centre Tour Eiffel",
+      "stars": 4,
+      "location": "4th Arrondissement, central Paris",
+      "check_in": "2026-04-20",
+      "check_out": "2026-04-27",
+      "nights": 7,
+      "price_per_night_cny": 480,
+      "total_cny": 3360,
+      "amenities": ["breakfast included", "free WiFi", "near metro"],
+      "booking_page": "booking_pages/hotel_mercure.txt"
+    },
+    {
+      "id": "H002",
+      "name": "Ibis Paris Bastille Faubourg Saint-Antoine",
+      "stars": 3,
+      "location": "12th Arrondissement",
+      "check_in": "2026-04-20",
+      "check_out": "2026-04-27",
+      "nights": 7,
+      "price_per_night_cny": 280,
+      "total_cny": 1960,
+      "amenities": ["free WiFi", "24h reception"],
+      "booking_page": "booking_pages/hotel_ibis.txt"
+    }
+  ]
+}

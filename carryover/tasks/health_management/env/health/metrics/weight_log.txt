@@ -1,0 +1,26 @@
+From: My Health Records — Weight & BMI Log
+Target: Maintain current weight (per Dr. Chen, March 2026)
+Device: Withings Body+ smart scale
+Measurement time: Morning, before breakfast
+
+DATE            WEIGHT (lbs)   BMI    NOTES
+----            ------------   ---    -----
+2026-04-14          187.2      25.8   —
+2026-04-13          187.8      25.9   —
+2026-04-12          188.1      26.0   —
+2026-04-10          186.9      25.7   —
+2026-04-07          187.5      25.8   —
+2026-04-03          188.8      26.0   —
+2026-03-31          189.2      26.1   —
+2026-03-24          190.1      26.2   Post-vacation high
+2026-03-17          188.5      25.9   Visit day weight (Dr. Chen: 188.0 lbs)
+2026-03-10          189.3      26.0   —
+2026-03-03          190.8      26.2   —
+
+=== ANALYSIS ===
+Current trend: Gradual improvement (-1.4 lbs over past 4 weeks).
+BMI range: 25.7–26.2 (borderline overweight — healthy range is 18.5–24.9).
+4-week change: -1.3 lbs (positive direction, consistent with diet adjustments).
+
+NOTES: BMI slightly above healthy range but trending in the right direction.
+Continue current diet plan. No immediate action needed; monitor monthly.

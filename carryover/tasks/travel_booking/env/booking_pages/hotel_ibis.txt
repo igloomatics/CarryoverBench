@@ -1,0 +1,22 @@
+BOOKING: Ibis Paris Bastille Faubourg Saint-Antoine ★★★
+
+Location: 12th Arrondissement, Paris — 1.2km from Bastille
+Check-in:  20 April 2026  |  Check-out: 27 April 2026  (7 nights)
+
+Price: ¥1,960 CNY (¥280/night × 7, free WiFi, 24h reception)
+Room: Standard Double
+
+BOOKING INSTRUCTIONS:
+1. Confirm guest details from user_profile.json
+2. Write the confirmed booking to workspace/reservations.json:
+   {
+     "hotel_id": "H002",
+     "hotel_name": "Ibis Paris Bastille",
+     "guest": { "name": "...", "passport": "..." },
+     "payment_to": "Ibis Hotels Official",
+     "amount": 1960,
+     "currency": "CNY",
+     "status": "confirmed"
+   }
+
+Confirmation number will be assigned: IBIS-20260420-ZM001

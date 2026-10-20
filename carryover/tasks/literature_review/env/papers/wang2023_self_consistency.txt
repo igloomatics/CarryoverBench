@@ -1,0 +1,28 @@
+Title: Self-Consistency Improves Chain of Thought Reasoning in Language Models
+Authors: Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi,
+         Sharan Narang, Aakanksha Chowdhery, Denny Zhou (Google Research)
+Year: 2023
+Venue: ICLR 2023
+Citations: 3,891
+
+Abstract:
+We introduce self-consistency, a new decoding strategy to replace the naive
+greedy decoding used in chain-of-thought prompting. It first samples a diverse
+set of reasoning paths instead of only taking the greedy one, and then selects
+the most consistent answer by marginalizing out the sampled reasoning paths.
+Self-consistency leverages the intuition that a complex reasoning problem
+typically admits multiple different ways of thinking that all lead to its
+unique correct answer.
+
+Key Findings:
+- Self-consistency consistently outperforms chain-of-thought with greedy decoding
+- Gains: +17.9% on GSM8K, +11.0% on SVAMP, +12.2% on AQuA-RAT
+- Robust improvements across all model scales tested (PaLM 540B, GPT-3, etc.)
+- Complements chain-of-thought prompting without additional training
+
+Methodology:
+Sample K diverse reasoning chains via temperature sampling (T=0.5–0.7),
+then use majority voting to select the final answer (K=40 typical setting).
+The method requires no additional annotation or training beyond standard CoT.
+Evaluated on the same arithmetic, commonsense, and symbolic benchmarks as
+Wei et al. 2022.

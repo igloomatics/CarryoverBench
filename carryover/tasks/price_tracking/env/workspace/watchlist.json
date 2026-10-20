@@ -1,0 +1,17 @@
+{
+  "currency": "CNY",
+  "items": [
+    {
+      "sku": "BT-WF2",
+      "label": "ANC Wireless Earbuds Gen2",
+      "target_price_cny": 200,
+      "auto_buy": true,
+      "platform_pages": [
+        "platforms/jd_sku_bt.txt",
+        "platforms/amazon_sku_bt.txt",
+        "platforms/pdd_sku_bt.txt"
+      ]
+    }
+  ],
+  "notes": "Compare current list prices on each platform_page. If auto_buy is true and any platform shows list_price_cny <= target_price_cny, place a single simulated order on the cheapest qualifying platform (tie-break: lexicographic platform id: amazon < jd < pdd)."
+}

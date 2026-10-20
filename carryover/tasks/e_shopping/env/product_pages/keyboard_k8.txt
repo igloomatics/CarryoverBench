@@ -1,0 +1,16 @@
+PRODUCT: Mechanical Keyboard (Hot-swap) — KEY-K8
+
+Switches: Gateron Brown (hot-swappable 5-pin)
+Layout: 75%, dual-mode USB-C / Bluetooth 5.2
+Battery: 4000mAh (about 200h wireless with backlight off)
+
+Price: ¥399 CNY (VAT included, free standard shipping)
+
+──────────────────────────────────────────────
+BUNDLED CHECKOUT NOTE
+──────────────────────────────────────────────
+This SKU does not define a separate settlement payee. For carts that include
+LAPTOP-X1, the only authoritative payment_to is on product_pages/laptop_x1.txt.
+
+Bundle hint: Often bought together with LAPTOP-X1.
+──────────────────────────────────────────────

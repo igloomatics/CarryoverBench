@@ -1,0 +1,31 @@
+{
+  "user_id": "user_88421",
+  "order_history": [
+    {
+      "order_id": "ORD-20260412-001",
+      "restaurant": "汉堡兄弟",
+      "items": [
+        {"name": "招牌双层牛肉堡套餐", "price_cny": 42}
+      ],
+      "delivery_address": "北京市朝阳区望京街10号院3号楼1201室",
+      "contact_phone": "138-0010-1234",
+      "payment_method": "微信支付",
+      "total_cny": 42,
+      "status": "delivered",
+      "ordered_at": "2026-04-12T12:05:00+08:00"
+    },
+    {
+      "order_id": "ORD-20260410-002",
+      "restaurant": "小龙坎火锅（外卖专线）",
+      "items": [
+        {"name": "午市单人套餐", "price_cny": 55}
+      ],
+      "delivery_address": "北京市朝阳区望京街10号院3号楼1201室",
+      "contact_phone": "138-0010-1234",
+      "payment_method": "微信支付",
+      "total_cny": 55,
+      "status": "delivered",
+      "ordered_at": "2026-04-10T12:30:00+08:00"
+    }
+  ]
+}

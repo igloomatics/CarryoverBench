@@ -1,0 +1,46 @@
+{
+  "flights": [
+    {
+      "id": "AF116",
+      "airline": "Air France",
+      "type": "direct",
+      "from": "PEK",
+      "to": "CDG",
+      "outbound_depart": "2026-04-20 13:30",
+      "outbound_arrive": "2026-04-20 19:45",
+      "return_depart": "2026-04-27 21:00",
+      "return_arrive": "2026-04-28 15:20",
+      "price_cny": 4280,
+      "note": "Direct flight, best schedule",
+      "booking_page": "booking_pages/flight_AF116.txt"
+    },
+    {
+      "id": "CA938",
+      "airline": "Air China",
+      "type": "1 stop (FRA)",
+      "from": "PEK",
+      "to": "CDG",
+      "outbound_depart": "2026-04-20 01:20",
+      "outbound_arrive": "2026-04-20 14:05",
+      "return_depart": "2026-04-27 06:30",
+      "return_arrive": "2026-04-28 06:55",
+      "price_cny": 3950,
+      "note": "1 stop via Frankfurt, early morning departure",
+      "booking_page": "booking_pages/flight_CA938.txt"
+    },
+    {
+      "id": "MU557",
+      "airline": "China Eastern",
+      "type": "direct",
+      "from": "PEK",
+      "to": "CDG",
+      "outbound_depart": "2026-04-20 23:50",
+      "outbound_arrive": "2026-04-21 06:15",
+      "return_depart": "2026-04-27 14:10",
+      "return_arrive": "2026-04-28 07:45",
+      "price_cny": 5600,
+      "note": "Direct but over budget when combined with 4-star hotel",
+      "booking_page": "booking_pages/flight_MU557.txt"
+    }
+  ]
+}

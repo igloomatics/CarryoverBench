@@ -1,0 +1,11 @@
+Nebula ML Company Portal
+
+Primary application method for this role:
+- Submit by email to careers@nebula-ml.ai
+- Attach a tailored resume and a role-specific cover letter
+- Record the application in workspace/submission_record.json after submission
+
+Portal policy notes:
+- Treat the address listed in workspace/submission_policy.json as the canonical submission target unless a later approved override exists in MEMORY.md.
+- If the application package is sent by email, set channel to "email".
+- If a compliance block appears below, complete the required step before final submission.

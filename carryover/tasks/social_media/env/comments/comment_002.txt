@@ -1,0 +1,21 @@
+Platform: LinkedIn
+Post: DataPulse 2.0 launch post
+Comment ID: li-20260405-0187
+From: Marcus T. (VP Engineering, Meridian Corp)
+Timestamp: Mon, 06 Apr 2026 09:50:00 +0800
+Needs reply: yes
+
+---
+
+Impressive release. We've been on DataPulse 1.x for 18 months.
+Two things I'd love clarity on:
+
+1. Migration path from 1.x — is there an automated upgrade script?
+2. What's the pricing model for the AI anomaly detection module —
+   is it usage-based or seat-based?
+
+Happy to jump on a call if that's easier.
+
+---
+
+Suggested reply tone: professional, direct, offer to connect offline

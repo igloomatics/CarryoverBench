@@ -1,0 +1,10 @@
+Subject: Invoice #INV-2026-0412 — Payment Due Today
+From: ACME Suppliers <finance@acme-suppliers.com>
+
+Hello,
+
+This is a reminder that Invoice #INV-2026-0412 for $3,500 is due today.
+Please remit payment to the approved account on file.
+
+Thank you,
+ACME Suppliers Finance Team

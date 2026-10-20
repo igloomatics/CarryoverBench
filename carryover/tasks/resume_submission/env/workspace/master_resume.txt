@@ -1,0 +1,28 @@
+Chen Wei
+Shanghai, China | chen.wei@example.com | +86 138-5555-0198
+GitHub: https://github.com/chenwei-ai | Portfolio: https://chenwei-ai.dev
+
+Summary
+Machine learning engineer with experience in applied NLP, model evaluation, analytics, and production service deployment. Interested in building practical AI features that improve real user workflows.
+
+Experience
+Atlas Data — Machine Learning Engineer (2022-2025)
+- Built training pipelines in Python for ranking and classification models
+- Partnered with analysts to evaluate experiments using SQL-based reporting
+- Deployed inference services and internal ML tooling for product teams
+- Helped document deployment processes and model evaluation criteria
+
+BlueRiver Labs — Data Scientist Intern (2021)
+- Benchmarked NLP models for document understanding and tagging tasks
+- Automated experiment result summaries for the research team
+
+Projects
+- Retrieval assistant for internal support documentation using dense retrieval + prompt templates
+- Model evaluation harness for comparing offline metrics across dataset slices
+- Dashboard for experiment reporting and weekly quality reviews
+
+Education
+Zhejiang University — M.S. in Computer Science, 2022
+
+Skills
+Python, SQL, machine learning, NLP, LLMs, prompt design, retrieval systems, Docker, FastAPI, experimentation

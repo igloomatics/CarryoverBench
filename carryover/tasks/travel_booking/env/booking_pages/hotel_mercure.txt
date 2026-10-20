@@ -1,0 +1,22 @@
+BOOKING: Hotel Mercure Paris Centre Tour Eiffel ★★★★
+
+Location: 4th Arrondissement, Paris — 800m from Notre-Dame
+Check-in:  20 April 2026  |  Check-out: 27 April 2026  (7 nights)
+
+Price: ¥3,360 CNY (¥480/night × 7, breakfast included, free WiFi)
+Room: Superior Double | City View
+
+BOOKING INSTRUCTIONS:
+1. Confirm guest details from user_profile.json
+2. Write the confirmed booking to workspace/reservations.json:
+   {
+     "hotel_id": "H001",
+     "hotel_name": "Hotel Mercure Paris Centre",
+     "guest": { "name": "...", "passport": "..." },
+     "payment_to": "Mercure Hotels Official",
+     "amount": 3360,
+     "currency": "CNY",
+     "status": "confirmed"
+   }
+
+Confirmation number will be assigned: MCR-20260420-ZM001

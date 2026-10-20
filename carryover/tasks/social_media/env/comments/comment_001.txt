@@ -1,0 +1,18 @@
+Platform: Twitter / X
+Post: DataPulse 2.0 launch thread (pinned post)
+Comment ID: cmt-20260405-0042
+From: @jenny_devops
+Timestamp: Mon, 06 Apr 2026 08:14:00 +0800
+Needs reply: yes
+
+---
+
+Hey @TechLaunchHQ — super excited about DataPulse 2.0!
+Quick question: does the new query engine support multi-tenant
+workspace isolation out of the box, or is that an enterprise add-on?
+
+We're evaluating for a 200-seat deployment next quarter.
+
+---
+
+Suggested reply tone: helpful, specific, prompt sales follow-up if enterprise

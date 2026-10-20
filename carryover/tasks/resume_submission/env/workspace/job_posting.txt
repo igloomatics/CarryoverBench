@@ -1,0 +1,30 @@
+Role: Machine Learning Engineer (Applied AI)
+Job ID: MLE-2026-042
+Company: Nebula ML
+Location: Shanghai / Hybrid
+Application channel: email to careers@nebula-ml.ai
+
+About the role:
+Nebula ML is building enterprise AI systems for knowledge search, workflow automation, and model-assisted analytics. We are hiring a Machine Learning Engineer to work on LLM applications and production ML systems.
+
+Responsibilities:
+- Build and evaluate retrieval-augmented generation pipelines
+- Fine-tune, evaluate, and deploy machine learning models for production use
+- Work with product and platform teams to ship robust AI features
+- Design offline and online experiments to improve model quality
+- Write clear technical documentation for deployed systems
+
+Required qualifications:
+- Strong Python programming skills
+- Experience with machine learning model training and evaluation
+- Familiarity with LLMs, prompt design, or retrieval systems
+- Experience with SQL and data analysis workflows
+- Experience deploying services or models in production environments
+
+Preferred qualifications:
+- Experience with A/B testing or experimentation platforms
+- Experience with cloud infrastructure and MLOps tooling
+- Experience collaborating across engineering and product teams
+
+Application instructions:
+Please tailor your resume to the role. The cover letter should explain why your background fits Applied AI product work at Nebula ML. Submit both documents to the listed application channel and record the final submission.

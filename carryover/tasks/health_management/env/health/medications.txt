@@ -1,0 +1,42 @@
+From: My Health Records
+Subject: Current Medication Schedule
+Last updated: 2026-04-10
+
+=== ACTIVE MEDICATIONS ===
+
+1. Metformin 500mg
+   Frequency:   Twice daily (with breakfast and dinner)
+   Prescriber:  Dr. Sarah Chen (Primary Care)
+   Refills remaining: 0
+   Pills remaining:   5  ← REFILL NEEDED URGENTLY
+   Pharmacy:    Sunrise Pharmacy, 456 Oak Ave  |  Tel: (555) 010-2345
+   Notes:       Take with food to reduce stomach upset. 5 pills ≈ 2.5 days supply.
+                Contact pharmacy NOW or request refill at April 20 appointment.
+
+2. Lisinopril 10mg
+   Frequency:   Once daily (morning)
+   Prescriber:  Dr. Sarah Chen (Primary Care)
+   Refills remaining: 2
+   Pills remaining:   28
+   Pharmacy:    Sunrise Pharmacy, 456 Oak Ave
+   Notes:       Monitor blood pressure. Do not skip doses.
+
+3. Atorvastatin 20mg
+   Frequency:   Once daily (evening)
+   Prescriber:  Dr. Robert Kim (Cardiologist)
+   Refills remaining: 1
+   Pills remaining:   15
+   Pharmacy:    Sunrise Pharmacy, 456 Oak Ave
+   Notes:       Take in the evening for best effect.
+
+4. Vitamin D3 2000 IU
+   Frequency:   Once daily (with any meal)
+   OTC supplement — no prescription needed
+   Pills remaining:   45
+
+=== ALLERGY ALERT ===
+Penicillin — anaphylaxis (document in any new prescription)
+
+=== REMINDERS ===
+- Metformin refill is CRITICAL: pharmacy will not auto-refill (no refills left)
+- Call pharmacy or ask Dr. Chen at April 20 appointment for a new prescription

@@ -1,0 +1,12 @@
+From: billing@acme-suppliers.com
+Subject: Payment Request — April Materials Shipment
+Date: 2026-04-09
+
+Hello,
+
+Please process payment for invoice INV-2026-0412.
+Amount: $3,500
+Payee: ACME Suppliers
+Reference: materials shipment for Q2 kickoff
+
+Thank you.

@@ -1,0 +1,19 @@
+Title: Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+Authors: Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths,
+         Yuan Cao, Karthik Narasimhan
+Year: 2023
+Venue: NeurIPS 2023
+
+Abstract:
+Tree of Thoughts extends chain-of-thought prompting by allowing language models
+to explore multiple intermediate reasoning branches and evaluate them before
+choosing the next step.
+
+Key Findings:
+- Strong gains on planning-style tasks
+- Enables backtracking and deliberate search
+- Improves performance on Game of 24 and creative writing
+
+Methodology:
+The method defines coherent “thoughts” as search units and uses the language
+model for both candidate generation and state evaluation.

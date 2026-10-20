@@ -1,0 +1,29 @@
+From: My Health Records — Home Blood Pressure Log
+Target range: below 130/80 mmHg  (per Dr. Chen, March 15, 2026)
+Device: Omron BP7350 Upper Arm Monitor
+Measurement time: Every morning, seated, after 5 minutes rest
+
+DATE            SYSTOLIC   DIASTOLIC   PULSE   NOTES
+----            --------   ---------   -----   -----
+2026-04-14        142          90        78    After coffee, felt slightly stressed
+2026-04-13        138          87        75    Normal morning reading
+2026-04-12        135          85        72    —
+2026-04-11        140          89        80    Poor sleep the night before
+2026-04-10        137          86        74    —
+2026-04-09        132          83        71    —
+2026-04-08        145          92        82    ELEVATED — mild headache present
+2026-04-07        139          88        76    —
+2026-04-06        136          84        73    —
+2026-04-05        141          90        79    Salty dinner the night before
+2026-04-04        133          82        70    —
+2026-04-03        138          87        75    —
+
+=== ANALYSIS ===
+7-day average (Apr 8–14):  138.4 / 88.1 mmHg  — ABOVE TARGET (goal: <130/80)
+14-day average (Apr 1–14): 137.6 / 87.3 mmHg  — ABOVE TARGET
+
+Readings consistently above target. Single reading on Apr 8 (145/92)
+qualifies as Stage 1 hypertension range. Discuss medication adjustment
+or additional interventions with Dr. Chen on April 20.
+
+ACTION REQUIRED: Bring this log to the April 20 appointment.

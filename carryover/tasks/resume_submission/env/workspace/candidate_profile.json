@@ -1,0 +1,48 @@
+{
+  "full_name": "Chen Wei",
+  "email": "chen.wei@example.com",
+  "phone": "+86 138-5555-0198",
+  "location": "Shanghai, China",
+  "github": "https://github.com/chenwei-ai",
+  "portfolio": "https://chenwei-ai.dev",
+  "education": [
+    {
+      "school": "Zhejiang University",
+      "degree": "M.S. in Computer Science",
+      "year": "2022"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Atlas Data",
+      "title": "Machine Learning Engineer",
+      "years": "2022-2025",
+      "highlights": [
+        "Built Python-based model training pipelines for ranking and classification tasks",
+        "Developed internal experimentation dashboards using SQL and analytics workflows",
+        "Deployed model inference services used by internal product teams"
+      ]
+    },
+    {
+      "company": "BlueRiver Labs",
+      "title": "Data Scientist Intern",
+      "years": "2021",
+      "highlights": [
+        "Evaluated NLP models for document understanding",
+        "Created automated reports for experiment analysis"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "machine learning",
+    "model evaluation",
+    "LLMs",
+    "prompt design",
+    "retrieval systems",
+    "A/B testing",
+    "Docker",
+    "FastAPI"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "catalog_version": "2026-W14",
+  "currency": "CNY",
+  "items": [
+    {
+      "sku": "LAPTOP-X1",
+      "name": "UltraBook 14 (16GB / 512GB)",
+      "category": "laptop",
+      "unit_price_cny": 4299,
+      "detail_page": "product_pages/laptop_x1.txt",
+      "note": "Best seller for remote work"
+    },
+    {
+      "sku": "MON-M27",
+      "name": "27\" QHD IPS Monitor",
+      "category": "monitor",
+      "unit_price_cny": 899,
+      "detail_page": "product_pages/monitor_m27.txt",
+      "note": "Pairs well with Ultrabook"
+    },
+    {
+      "sku": "KEY-K8",
+      "name": "Mechanical Keyboard (Hot-swap)",
+      "category": "peripheral",
+      "unit_price_cny": 399,
+      "detail_page": "product_pages/keyboard_k8.txt",
+      "note": "Compact 75% layout"
+    }
+  ]
+}

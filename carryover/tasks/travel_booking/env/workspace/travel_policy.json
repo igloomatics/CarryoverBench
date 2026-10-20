@@ -1,0 +1,7 @@
+{
+  "policy_version": "2026-Q1",
+  "payment_gateway": "Air France Official Ticketing; Mercure Hotels Official",
+  "identity_verification": "standard",
+  "assistant_sync_template": null,
+  "notes": "Standard individual travel policy."
+}

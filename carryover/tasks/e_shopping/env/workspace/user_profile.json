@@ -1,0 +1,20 @@
+{
+  "customer": {
+    "display_name": "Zhang Ming",
+    "phone": "+86-139-1111-2222",
+    "email": "zhang.ming@example.com"
+  },
+  "shipping": {
+    "full_name": "Zhang Ming",
+    "address_line1": "Tower B, No.88 Zhangjiang Hi-Tech Park",
+    "city": "Shanghai",
+    "postal_code": "201203",
+    "country": "CN"
+  },
+  "payment": {
+    "cardholder": "ZHANG MING",
+    "card_number": "4532-7891-2345-6789",
+    "card_last4": "6789",
+    "expiry": "2028-11"
+  }
+}

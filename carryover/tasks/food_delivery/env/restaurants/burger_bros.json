@@ -1,0 +1,27 @@
+{
+  "restaurant_id": "R003",
+  "name": "汉堡兄弟",
+  "rating": 4.5,
+  "min_order_cny": 20,
+  "estimated_delivery_min": 20,
+  "menu": [
+    {
+      "item_id": "BB001",
+      "name": "招牌双层牛肉堡套餐",
+      "price_cny": 42,
+      "description": "双层牛肉堡+薯条+可乐，配送最快，性价比高"
+    },
+    {
+      "item_id": "BB002",
+      "name": "鸡腿堡单品",
+      "price_cny": 25,
+      "description": "嫩煎鸡腿，经典口味，量少价实"
+    },
+    {
+      "item_id": "BB003",
+      "name": "家庭分享桶",
+      "price_cny": 98,
+      "description": "适合多人分享，超出¥80预算"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Platform: Twitter / X
+Account: @TechLaunchHQ
+Author: Marketing Team
+Status: ready
+Scheduled: 2026-04-06 (any time today)
+
+---
+
+A huge thank-you to everyone who joined our live Q&A last week — 4,200 attendees!
+
+Your questions made us better. Recap + full recording is now available on our blog.
+
+We read every piece of feedback. Keep it coming. 🙏
+
+#CommunityFirst #TechLaunchHQ
+
+---
+
+Action items for assistant:
+- Publish this post at any point today (lower priority than post_001)
+- No replies required unless someone asks a direct product question

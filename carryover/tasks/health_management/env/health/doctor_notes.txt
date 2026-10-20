@@ -1,0 +1,42 @@
+From: Sunrise Family Clinic — Patient Visit Summary
+Doctor: Dr. Sarah Chen, MD
+Visit Date: March 15, 2026
+Location: Sunrise Family Clinic, 456 Oak Avenue
+
+=== VISIT SUMMARY ===
+
+Chief complaint: Routine 3-month follow-up for hypertension and Type 2 diabetes management.
+
+Vitals at visit:
+  Blood Pressure: 138/88 mmHg  (target: <130/80)
+  Heart Rate:     76 bpm
+  Weight:         188.0 lbs
+  Temperature:    98.4°F
+
+Clinical notes:
+  Blood pressure remains slightly above target range. Patient reports
+  medication adherence but acknowledges high-sodium diet and inconsistent
+  exercise. Metformin tolerance good, no GI complaints.
+
+  Discussed: dietary sodium reduction (<2000 mg/day), 30 min moderate
+  exercise 5×/week, home BP monitoring (daily morning readings).
+
+=== RECOMMENDATIONS ===
+1. Continue current medication regimen (Metformin 500mg BID, Lisinopril 10mg QD).
+2. Monitor blood pressure daily at home — target below 130/80. Bring log to next visit.
+3. Reduce sodium intake. Limit processed foods and restaurant meals.
+4. 30 minutes moderate-intensity exercise (brisk walking) at least 5 days/week.
+5. Fasting labs ordered for pre-visit testing before April 20 appointment:
+     - Fasting blood glucose, HbA1c
+     - Full lipid panel (Total/LDL/HDL/Triglycerides)
+     - Basic metabolic panel (Creatinine, eGFR, Electrolytes)
+   Results will be sent to patient portal and reviewed at April 20 visit.
+6. Metformin refill will be due — request at April 20 appointment.
+
+=== FOLLOW-UP ===
+Next appointment: April 20, 2026 — Annual Physical + lab result review.
+If blood pressure exceeds 150/95 or you experience headaches/dizziness,
+contact the clinic immediately: (555) 010-1111.
+
+Dr. Sarah Chen, MD
+Sunrise Family Clinic
